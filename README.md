@@ -98,3 +98,20 @@ export default App;
 
 export default App
 ```
+
+# 2 shayad hame virtual dom bhi padh lena chahiye 
+
+```link
+https://github.com/acdlite/react-fiber-architecture
+```
+
+ise kam se kam ek bar padh lena 
+
+# ending of foundation 
+
+###isame props aur tailwind padh rha hun aapko kose bhi milega ok ||
+props = properties
+
+
+
+
