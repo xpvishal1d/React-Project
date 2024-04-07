@@ -12,7 +12,7 @@ function App() {
   const addValue=()=>{
     // counter=counter+1
     if (counter===30) {
-      counter=counter-15
+      counter=counter-15 
       
     }else{
       setCounter(counter+1)
