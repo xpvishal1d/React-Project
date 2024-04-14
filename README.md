@@ -267,10 +267,8 @@ function App() {
 export default App
 
 ```
->>>>>>> 35c27df365e7a7505cca2bf75773ab818aac9c72
 
 
-;;
 
 
 
