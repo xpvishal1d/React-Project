@@ -36,9 +36,9 @@ function App() {
     },[])
 
     useEffect(() => {
-      localStorage.setItem("todos", JSON.stringify(todos))
-      }
-    , [])
+      localStorage.setItem("todos", JSON.stringify(todos));
+    }, [todos]); // Include todos in the dependencies array to trigger the effect whenever todos change
+    
     
     
 
